@@ -1,0 +1,7 @@
+Question2.
+You are working as a software engineer for a social media company that provides a platform for users to upload and share photos and videos. The company is experiencing a rapid growth in the number of users and data volume, which has put a strain on the memory usage and performance of the platform. The company is looking for a solution to optimize the memory usage and performance of the platform.
+Requirements:
+ Implement a demand paging system that loads pages from disk to memory on demand, and unloads them when they are no longer needed.
+ Develop a data generator that simulates the memory access patterns of the platform, using a realistic workload and data size.
+ Evaluate the performance of the demand paging system with different configurations and workload scenarios, and compare it with a non-paging system that keeps all data in memory.
+ Optimize the memory usage and performance of the platform by tuning the demand paging system parameters, such as the page size, swap space size, and page replacement algorithm.
